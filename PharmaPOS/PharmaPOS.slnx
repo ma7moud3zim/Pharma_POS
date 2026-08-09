@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="PharmaPOS.API/PharmaPOS.API.csproj" Id="c9ab2680-e94d-46e0-a406-bf10a86ac6e4" />
+  <Project Path="PharmaPOS.Domain/PharmaPOS.Domain.csproj" Id="6801bd3c-2602-419c-b1f1-93e2ea808f18" />
+  <Project Path="PharmaPOS.Infrastructure/PharmaPOS.Infrastructure.csproj" Id="44f2ed9b-e03d-4d62-9d36-812a2fcf066f" />
+</Solution>
