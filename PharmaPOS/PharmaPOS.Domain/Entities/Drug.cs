@@ -1,5 +1,6 @@
 ﻿using PharmaPOS.Domain.Common;
 using PharmaPOS.Domain.Enums;
+using System.Net.ServerSentEvents;
 
 namespace PharmaPOS.Domain.Entities;
 
