@@ -24,12 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Configurations\" />
     <Folder Include="Messaging\Events\" />
     <Folder Include="Messaging\Consumers\" />
-    <Folder Include="Repositories\Interfaces\" />
-    <Folder Include="Repositories\Implementaions\" />
-    <Folder Include="Seeders\" />
   </ItemGroup>
 
 </Project>
