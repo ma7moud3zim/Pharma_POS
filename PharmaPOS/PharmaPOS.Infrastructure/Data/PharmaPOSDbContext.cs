@@ -32,7 +32,7 @@ public class PharmaPOSDbContext : DbContext
     public DbSet<StockAdjustment> StockAdjustments => Set<StockAdjustment>();
     public DbSet<Discount> Discounts => Set<Discount>();
     public DbSet<AuditLog> AuditLogs => Set<AuditLog>();
-
+    public DbSet<DrugDiscount> DrugDiscounts => Set<DrugDiscount>();
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

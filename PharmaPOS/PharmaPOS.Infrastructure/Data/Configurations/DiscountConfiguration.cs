@@ -29,13 +29,17 @@ public class DiscountConfiguration : IEntityTypeConfiguration<Discount>
         builder.Property(d => d.MinimumPurchaseAmount)
             .HasColumnType("decimal(18,4)");
 
-        builder.Property(d => d.ApplicableDrugIds)
-            .HasMaxLength(2000);
+        
 
         builder.HasIndex(d => d.Code)
             .IsUnique()
             .HasFilter("[Code] IS NOT NULL")
             .HasDatabaseName("IX_Discounts_Code");
+
+        builder.HasMany(d => d.Sales)
+            .WithOne(s => s.Discount)
+            .HasForeignKey(s => s.DiscountId)
+            .OnDelete(DeleteBehavior.SetNull);
 
         builder.HasQueryFilter(d => !d.IsDeleted);
     }

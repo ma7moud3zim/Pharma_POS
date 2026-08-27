@@ -25,6 +25,7 @@ public class Sale : BaseEntity
     public decimal? InsuranceCoveredAmount { get; set; }
 
     // Foreign Keys
+    public Guid? DiscountId { get; set; }
     public Guid CashierId { get; set; }
     public Guid? PatientId { get; set; }
     public Guid? PrescriptionId { get; set; }
@@ -33,6 +34,7 @@ public class Sale : BaseEntity
     public User Cashier { get; set; } = null!;
     public Patient? Patient { get; set; }
     public Prescription? Prescription { get; set; }
+    public Discount? Discount { get; set; }
     public ICollection<SaleItem> Items { get; set; } = [];
     public ICollection<Payment> Payments { get; set; } = [];
 }

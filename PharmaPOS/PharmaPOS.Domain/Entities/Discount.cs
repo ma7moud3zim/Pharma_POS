@@ -16,5 +16,7 @@ public class Discount : BaseEntity
     public int UsageCount { get; set; } = 0;
     public bool IsActive { get; set; } = true;
     public bool AppliesToAllProducts { get; set; } = true;
-    public string? ApplicableDrugIds { get; set; }
+    // Navigation Properties
+    public ICollection<Sale> Sales { get; set; } = [];
+    public ICollection<DrugDiscount> DrugDiscounts { get; set; } = [];
 }

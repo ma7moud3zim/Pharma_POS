@@ -38,4 +38,5 @@ public class Drug : BaseEntity
     public ICollection<SaleItem> SaleItems { get; set; } = [];
     public ICollection<PrescriptionItem> PrescriptionItems { get; set; } = [];
     public ICollection<PurchaseOrderItem> PurchaseOrderItems { get; set; } = [];
+    public ICollection<DrugDiscount> DrugDiscounts { get; set; } = [];
 }

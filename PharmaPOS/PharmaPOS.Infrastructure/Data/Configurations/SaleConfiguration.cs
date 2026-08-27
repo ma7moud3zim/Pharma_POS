@@ -86,6 +86,11 @@ public class SaleConfiguration : IEntityTypeConfiguration<Sale>
             .HasForeignKey(p => p.SaleId)
             .OnDelete(DeleteBehavior.Cascade);
 
+        builder.HasOne(s => s.Discount)
+            .WithMany(d => d.Sales)
+            .HasForeignKey(s => s.DiscountId)
+            .OnDelete(DeleteBehavior.SetNull);
+
         builder.HasQueryFilter(s => !s.IsDeleted);
     }
 }

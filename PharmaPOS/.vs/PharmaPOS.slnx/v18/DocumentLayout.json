@@ -7,12 +7,48 @@
       "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\pharmapos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\pharmapos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.domain\\entities\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|solutionrelative:pharmapos.domain\\entities\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.domain\\entities\\drugdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|solutionrelative:pharmapos.domain\\entities\\drugdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\drugdiscountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\drugdiscountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\pharmaposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\pharmaposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|solutionrelative:pharmapos.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801BD3C-2602-419C-B1F1-93E2EA808F18}|PharmaPOS.Domain\\PharmaPOS.Domain.csproj|solutionrelative:pharmapos.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\pharmapos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\pharmapos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\stockadjustmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\stockadjustmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\saleitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\saleitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\configurations\\prescriptionitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,8 +119,8 @@
       "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\data\\pharmaposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\data\\pharmaposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.infrastructure\\migrations\\20260818044509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F2ED9B-E03D-4D62-9D36-812A2FCF066F}|PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj|solutionrelative:pharmapos.infrastructure\\migrations\\20260818044509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,50 +130,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drug.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Drug.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Domain\\Entities\\Drug.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Drug.cs",
+              "RelativeToolTip": "PharmaPOS.Domain\\Entities\\Drug.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:59:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrugDiscount.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\DrugDiscount.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Domain\\Entities\\DrugDiscount.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\DrugDiscount.cs",
+              "RelativeToolTip": "PharmaPOS.Domain\\Entities\\DrugDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:55:19.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Domain\\Entities\\Discount.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Discount.cs",
+              "RelativeToolTip": "PharmaPOS.Domain\\Entities\\Discount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:54:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Domain\\Entities\\Sale.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "PharmaPOS.Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:53:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260818044509_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Migrations\\20260818044509_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Migrations\\20260818044509_InitialCreate.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Migrations\\20260818044509_InitialCreate.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Migrations\\20260818044509_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:45:09.214Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Program.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Program.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Program.cs",
-              "RelativeToolTip": "PharmaPOS.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Program.cs*",
+              "RelativeToolTip": "PharmaPOS.API\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T04:34:32.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PharmaPOS.API",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\PharmaPOS.API.csproj",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\PharmaPOS.API.csproj",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\PharmaPOS.API.csproj",
-              "RelativeToolTip": "PharmaPOS.API\\PharmaPOS.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-18T04:34:25.41Z",
+              "DocumentIndex": 7,
+              "Title": "DiscountConfiguration.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T05:09:11.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\appsettings.json",
               "RelativeDocumentMoniker": "PharmaPOS.API\\appsettings.json",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\appsettings.json",
-              "RelativeToolTip": "PharmaPOS.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\appsettings.json*",
+              "RelativeToolTip": "PharmaPOS.API\\appsettings.json*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-18T04:30:53.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "DrugDiscountConfiguration.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DrugDiscountConfiguration.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\DrugDiscountConfiguration.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DrugDiscountConfiguration.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\Configurations\\DrugDiscountConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:56:03.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PharmaPOSDbContext.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:22:59.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleConfiguration.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T05:04:10.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\Services\\CurrentUserService.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "PharmaPOS.API\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:44:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PharmaPOS.API.csproj",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\PharmaPOS.API.csproj",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\PharmaPOS.API.csproj",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\PharmaPOS.API.csproj*",
+              "RelativeToolTip": "PharmaPOS.API\\PharmaPOS.API.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T04:34:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\DependencyInjection.cs",
@@ -158,12 +316,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "PharmaPOSSeeder.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs*",
-              "RelativeToolTip": "PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs*",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs",
+              "RelativeToolTip": "PharmaPOS.Infrastructure\\Seeders\\PharmaPOSSeeder.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAIwIQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T04:23:02.832Z",
@@ -171,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Repositories\\Implementaions\\Repository.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Repositories\\Implementaions\\Repository.cs",
@@ -184,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Repositories\\Interfaces\\IRepository.cs",
@@ -197,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "AuditLogConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\AuditLogConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\AuditLogConfiguration.cs",
@@ -210,20 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DiscountConfiguration.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
-              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\Configurations\\DiscountConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:09:11.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "StockAdjustmentConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\StockAdjustmentConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\StockAdjustmentConfiguration.cs",
@@ -236,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "PurchaseOrderItemConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PurchaseOrderItemConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PurchaseOrderItemConfiguration.cs",
@@ -249,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "PurchaseOrderConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PurchaseOrderConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PurchaseOrderConfiguration.cs",
@@ -262,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "PaymentConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PaymentConfiguration.cs",
@@ -275,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "SaleItemConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SaleItemConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\SaleItemConfiguration.cs",
@@ -288,20 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SaleConfiguration.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
-              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\Configurations\\SaleConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:04:10.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "PrescriptionItemConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PrescriptionItemConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PrescriptionItemConfiguration.cs",
@@ -314,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "PrescriptionConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PrescriptionConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PrescriptionConfiguration.cs",
@@ -327,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "DrugBatchConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DrugBatchConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\DrugBatchConfiguration.cs",
@@ -340,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "DrugConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\DrugConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\DrugConfiguration.cs",
@@ -353,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "SupplierConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\SupplierConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\SupplierConfiguration.cs",
@@ -366,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "PatientConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\PatientConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\PatientConfiguration.cs",
@@ -379,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
@@ -388,19 +520,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwBsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T04:39:48.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PharmaPOSDbContext.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
-              "RelativeToolTip": "PharmaPOS.Infrastructure\\Data\\PharmaPOSDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T04:22:59.568Z",
               "EditorCaption": ""
             }
           ]
