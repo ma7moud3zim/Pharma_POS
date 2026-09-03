@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\dtos\\sale\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\dtos\\sale\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\dtos\\sale\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\dtos\\sale\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\dtos\\inventory\\durgbatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|e:\\ptojects\\pharma - point of sale\\pharmapos\\pharmapos.api\\dtos\\supplier\\createsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9AB2680-E94D-46E0-A406-BF10A86AC6E4}|PharmaPOS.API\\PharmaPOS.API.csproj|solutionrelative:pharmapos.api\\dtos\\supplier\\createsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -122,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +142,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\SalesController.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "PharmaPOS.API\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAArwFIBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:39:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateSaleDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Sale\\CreateSaleDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Sale\\CreateSaleDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Sale\\CreateSaleDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Sale\\CreateSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:39:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Sale\\SaleDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Sale\\SaleDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Sale\\SaleDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Sale\\SaleDto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:38:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "VerifyPrescriptoinDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Prescription\\VerifyPrescriptoinDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Prescription\\VerifyPrescriptoinDto.cs",
@@ -138,25 +189,24 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Prescription\\VerifyPrescriptoinDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:56:54.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T07:56:54.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\PrescriptionController.cs",
               "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PrescriptionController.cs",
               "RelativeToolTip": "PharmaPOS.API\\Controllers\\PrescriptionController.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAArwMwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAIA6wLEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T07:56:07.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CreatePrescriptoinDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Prescription\\CreatePrescriptoinDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Prescription\\CreatePrescriptoinDto.cs",
@@ -164,12 +214,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Prescription\\CreatePrescriptoinDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:53:46.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T07:53:46.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "PrescriptionDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Prescription\\PrescriptionDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Prescription\\PrescriptionDto.cs",
@@ -177,12 +226,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Prescription\\PrescriptionDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA7wBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:52:10.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T07:52:10.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PatientsController.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\PatientsController.cs",
@@ -190,12 +238,11 @@
               "RelativeToolTip": "PharmaPOS.API\\Controllers\\PatientsController.cs",
               "ViewState": "AgIAAKgAAAAAAAAAAAAUwL4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T05:44:28.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T05:44:28.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "StockAdjustmentDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\StockAdjustmentDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\StockAdjustmentDto.cs",
@@ -203,12 +250,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\StockAdjustmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:00:50.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T06:00:50.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CreateStockAdjustmentDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\CreateStockAdjustmentDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\CreateStockAdjustmentDto.cs",
@@ -216,12 +262,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\CreateStockAdjustmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:01:11.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T06:01:11.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UpdateSupplierDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Supplier\\UpdateSupplierDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Supplier\\UpdateSupplierDto.cs",
@@ -229,12 +274,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Supplier\\UpdateSupplierDto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:57:31.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T05:57:31.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "PurchaseOrderDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\PurchaseOrderDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\PurchaseOrder\\PurchaseOrderDto.cs",
@@ -242,103 +286,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\PurchaseOrder\\PurchaseOrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:09:29.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreatePurchaseOrderDto.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
-              "RelativeToolTip": "PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:09:44.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T06:09:29.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PharmaPOS.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-01T05:06:29.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PurchaseOrdersController.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
-              "RelativeToolTip": "PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAADwv8EAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:10:24.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdatePurchaseOrderDto.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
-              "RelativeToolTip": "PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:12:04.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\InventoryController.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "PharmaPOS.API\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAkwAYBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:01:48.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateDrugBatchDto.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
-              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:00:24.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DurgBatchDto.cs",
-              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
-              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
-              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
-              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:00:11.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\SuppliersController.cs",
@@ -351,7 +303,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePurchaseOrderDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\PurchaseOrder\\CreatePurchaseOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:09:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PharmaPOS.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T05:06:29.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PurchaseOrdersController.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
+              "RelativeToolTip": "PharmaPOS.API\\Controllers\\PurchaseOrdersController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwv8EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:10:24.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePurchaseOrderDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\PurchaseOrder\\UpdatePurchaseOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:12:04.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\InventoryController.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "PharmaPOS.API\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAkwAYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:01:48.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateDrugBatchDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\CreateDrugBatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:00:24.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DurgBatchDto.cs",
+              "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
+              "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
+              "ToolTip": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
+              "RelativeToolTip": "PharmaPOS.API\\DTOs\\Inventory\\DurgBatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:00:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "CreateSupplierDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Supplier\\CreateSupplierDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Supplier\\CreateSupplierDto.cs",
@@ -359,12 +395,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Supplier\\CreateSupplierDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:57:17.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T05:57:17.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "SupplierDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Supplier\\SupplierDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Supplier\\SupplierDto.cs",
@@ -372,12 +407,11 @@
               "RelativeToolTip": "PharmaPOS.API\\DTOs\\Supplier\\SupplierDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:57:04.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T05:57:04.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "UpdatePatientDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Patient\\UpdatePatientDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Patient\\UpdatePatientDto.cs",
@@ -389,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "CreatePatientDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Patient\\CreatePatientDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Patient\\CreatePatientDto.cs",
@@ -401,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "PatientDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Patient\\PatientDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Patient\\PatientDto.cs",
@@ -413,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Program.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Program.cs",
@@ -425,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\AuthController.cs",
@@ -437,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\appsettings.json",
               "RelativeDocumentMoniker": "PharmaPOS.API\\appsettings.json",
@@ -449,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "PharmaPOS.API.http",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\PharmaPOS.API.http",
               "RelativeDocumentMoniker": "PharmaPOS.API\\PharmaPOS.API.http",
@@ -461,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "DrugsController.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\Controllers\\DrugsController.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\Controllers\\DrugsController.cs",
@@ -473,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "UpdateDrugDto.cs",
               "DocumentMoniker": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.API\\DTOs\\Drug\\UpdateDrugDto.cs",
               "RelativeDocumentMoniker": "PharmaPOS.API\\DTOs\\Drug\\UpdateDrugDto.cs",
