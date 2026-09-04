@@ -4,6 +4,7 @@ using PharmaPOS.Infrastructure;
 using PharmaPOS.Infrastructure.Data;
 using PharmaPOS.Infrastructure.Seeders;
 using Serilog;
+using FluentValidation;
 
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Information()
@@ -31,7 +32,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
 builder.Services.AddHttpClient();
-
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
