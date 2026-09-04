@@ -3,8 +3,24 @@ using PharmaPOS.API.Services;
 using PharmaPOS.Infrastructure;
 using PharmaPOS.Infrastructure.Data;
 using PharmaPOS.Infrastructure.Seeders;
+using Serilog;
+
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Information()
+    .MinimumLevel.Override("Microsoft", Serilog.Events.LogEventLevel.Warning)
+    .MinimumLevel.Override("Microsoft.EntityFrameworkCore.Database.Command", Serilog.Events.LogEventLevel.Information)
+    .Enrich.FromLogContext()
+    .Enrich.WithMachineName()
+    .WriteTo.Console()
+    .WriteTo.File(
+        path: "Logs/pharmapos-.log",
+        rollingInterval: RollingInterval.Day,
+        retainedFileCountLimit: 30)
+    .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Host.UseSerilog();
+
 
 // Services
 builder.Services.AddInfrastructure(builder.Configuration);
@@ -55,5 +71,6 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+app.UseSerilogRequestLogging();
 
 app.Run();
