@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vM4nwdsxXVw=",
+  "dgSpecHash": "dRVFJ8J4rqI=",
   "success": true,
   "projectFilePath": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\PharmaPOS.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.aspnetcore\\1.8.25\\hangfire.aspnetcore.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.core\\1.8.25\\hangfire.core.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.netcore\\1.8.25\\hangfire.netcore.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.sqlserver\\1.8.25\\hangfire.sqlserver.1.8.25.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0\\microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
@@ -17,6 +21,7 @@
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\serilog.aspnetcore\\10.0.0\\serilog.aspnetcore.10.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\serilog.extensions.hosting\\10.0.0\\serilog.extensions.hosting.10.0.0.nupkg.sha512",
@@ -27,5 +32,18 @@
     "C:\\Users\\ma7mo\\.nuget\\packages\\serilog.sinks.debug\\3.0.0\\serilog.sinks.debug.3.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 11.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\PharmaPOS.Domain.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Domain\\PharmaPOS.Domain.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

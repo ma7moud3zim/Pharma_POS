@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "kPnspIcKP6A=",
+  "dgSpecHash": "fKt9/7jE550=",
   "success": true,
   "projectFilePath": "E:\\Ptojects\\Pharma - Point Of Sale\\PharmaPOS\\PharmaPOS.Infrastructure\\PharmaPOS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ma7mo\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.aspnetcore\\1.8.25\\hangfire.aspnetcore.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.core\\1.8.25\\hangfire.core.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.netcore\\1.8.25\\hangfire.netcore.1.8.25.nupkg.sha512",
+    "C:\\Users\\ma7mo\\.nuget\\packages\\hangfire.sqlserver\\1.8.25\\hangfire.sqlserver.1.8.25.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.4\\microsoft.bcl.cryptography.9.0.4.nupkg.sha512",
