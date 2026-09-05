@@ -5,6 +5,7 @@ using PharmaPOS.Infrastructure.Data;
 using PharmaPOS.Infrastructure.Seeders;
 using Serilog;
 using FluentValidation;
+using PharmaPOS.API.Hubs;
 
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Information()
@@ -49,8 +50,11 @@ builder.Services.AddAuthentication(options =>
         RoleClaimType = "realm_access.roles"
     };
 });
-
+builder.Services.AddSignalR();
+builder.Services.AddScoped<NotificationService>();
 builder.Services.AddAuthorization();
+
+
 
 var app = builder.Build();
 

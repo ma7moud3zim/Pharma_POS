@@ -13,7 +13,7 @@ public class ValidationFilter<T> : IAsyncActionFilter where T : class
         _validator = validator;
     }
 
-    public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+    async Task IAsyncActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
     {
         var argument = context.ActionArguments.Values
             .OfType<T>()
