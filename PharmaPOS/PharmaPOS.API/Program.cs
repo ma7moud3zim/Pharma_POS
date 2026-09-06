@@ -5,7 +5,7 @@ using PharmaPOS.Infrastructure.Data;
 using PharmaPOS.Infrastructure.Seeders;
 using Serilog;
 using FluentValidation;
-using PharmaPOS.API.Hubs;
+using Microsoft.Extensions.Caching.StackExchangeRedis;
 
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Information()
@@ -50,6 +50,12 @@ builder.Services.AddAuthentication(options =>
         RoleClaimType = "realm_access.roles"
     };
 });
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration["Redis:ConnectionString"];
+    options.InstanceName = "PharmaPOS_";
+});
+builder.Services.AddScoped<CacheService>();
 builder.Services.AddSignalR();
 builder.Services.AddScoped<NotificationService>();
 builder.Services.AddAuthorization();
