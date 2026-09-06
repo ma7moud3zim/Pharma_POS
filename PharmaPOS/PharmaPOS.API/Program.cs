@@ -6,6 +6,7 @@ using PharmaPOS.Infrastructure.Seeders;
 using Serilog;
 using FluentValidation;
 using Microsoft.Extensions.Caching.StackExchangeRedis;
+using Yarp.ReverseProxy;
 
 Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Information()
@@ -29,6 +30,8 @@ builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddReverseProxy()
+    .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
@@ -81,6 +84,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
+app.MapReverseProxy();
 app.MapControllers();
 app.UseSerilogRequestLogging();
 
