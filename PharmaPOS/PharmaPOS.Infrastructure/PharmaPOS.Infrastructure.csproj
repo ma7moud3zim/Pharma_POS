@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Hangfire.AspNetCore" Version="1.8.25" />
     <PackageReference Include="Hangfire.SqlServer" Version="1.8.25" />
+    <PackageReference Include="MassTransit" Version="9.2.3" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="9.2.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.10">
       <PrivateAssets>all</PrivateAssets>
@@ -25,12 +27,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PharmaPOS.Contracts\PharmaPOS.Contracts.csproj" />
     <ProjectReference Include="..\PharmaPOS.Domain\PharmaPOS.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Messaging\Events\" />
-    <Folder Include="Messaging\Consumers\" />
   </ItemGroup>
 
 </Project>
