@@ -194,48 +194,48 @@
           }
         }
       },
-      "MassTransit/9.2.3": {
+      "MassTransit/8.3.6": {
         "type": "package",
         "dependencies": {
-          "MassTransit.Abstractions": "9.2.3"
+          "MassTransit.Abstractions": "8.3.6"
         },
         "compile": {
-          "lib/net10.0/MassTransit.dll": {
+          "lib/net9.0/MassTransit.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net10.0/MassTransit.dll": {
+          "lib/net9.0/MassTransit.dll": {
             "related": ".xml"
           }
         }
       },
-      "MassTransit.Abstractions/9.2.3": {
+      "MassTransit.Abstractions/8.3.6": {
         "type": "package",
         "compile": {
-          "lib/net10.0/MassTransit.Abstractions.dll": {
+          "lib/net9.0/MassTransit.Abstractions.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net10.0/MassTransit.Abstractions.dll": {
+          "lib/net9.0/MassTransit.Abstractions.dll": {
             "related": ".xml"
           }
         }
       },
-      "MassTransit.RabbitMQ/9.2.3": {
+      "MassTransit.RabbitMQ/8.3.6": {
         "type": "package",
         "dependencies": {
-          "MassTransit": "9.2.3",
-          "RabbitMQ.Client": "7.2.2"
+          "MassTransit": "8.3.6",
+          "RabbitMQ.Client": "7.0.0"
         },
         "compile": {
-          "lib/net10.0/MassTransit.RabbitMqTransport.dll": {
+          "lib/net9.0/MassTransit.RabbitMqTransport.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net10.0/MassTransit.RabbitMqTransport.dll": {
+          "lib/net9.0/MassTransit.RabbitMqTransport.dll": {
             "related": ".xml"
           }
         }
@@ -1062,7 +1062,7 @@
           }
         }
       },
-      "RabbitMQ.Client/7.2.2": {
+      "RabbitMQ.Client/7.0.0": {
         "type": "package",
         "compile": {
           "lib/net8.0/RabbitMQ.Client.dll": {
@@ -1921,16 +1921,14 @@
         "logo.png"
       ]
     },
-    "MassTransit/9.2.3": {
-      "sha512": "exbI8yF4w8swAOj5cHiZVyWWWb/O/d0x1hBrD8nvFcAk4iMjEyvg1i+8zvgOsfYkSZp4horycBJVLAQPv1gFbw==",
+    "MassTransit/8.3.6": {
+      "sha512": "iQQ02dUJuWlpNai3eDN7WmnstvmB2LAD8YN1i8OFT5BaNpGYYg3v0US3S6f1Zz7us+NnGHm6csg25Ak3z0H7Xg==",
       "type": "package",
-      "path": "masstransit/9.2.3",
+      "path": "masstransit/8.3.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "NuGet.README.md",
-        "lib/net10.0/MassTransit.dll",
-        "lib/net10.0/MassTransit.xml",
         "lib/net472/MassTransit.dll",
         "lib/net472/MassTransit.xml",
         "lib/net8.0/MassTransit.dll",
@@ -1939,21 +1937,19 @@
         "lib/net9.0/MassTransit.xml",
         "lib/netstandard2.0/MassTransit.dll",
         "lib/netstandard2.0/MassTransit.xml",
-        "masstransit.9.2.3.nupkg.sha512",
+        "masstransit.8.3.6.nupkg.sha512",
         "masstransit.nuspec",
         "mt-logo-small.png"
       ]
     },
-    "MassTransit.Abstractions/9.2.3": {
-      "sha512": "D0y98XbWq4Su8YCn1Y3WvQKy3Mn6SS5DGp1vkICy0TpPPzGQI6EPTMmITiim0KCf/WXgh/mRIP9UswIZVDuRjw==",
+    "MassTransit.Abstractions/8.3.6": {
+      "sha512": "F3R3EFPvUvpsiebnijmpvZ4IhSEcqkEJdrhlFuTOjzIUnMRYBgki/oDfFWj57Ki4b9yq0nilt4Q5bk11pC4ygg==",
       "type": "package",
-      "path": "masstransit.abstractions/9.2.3",
+      "path": "masstransit.abstractions/8.3.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "NuGet.README.md",
-        "lib/net10.0/MassTransit.Abstractions.dll",
-        "lib/net10.0/MassTransit.Abstractions.xml",
         "lib/net472/MassTransit.Abstractions.dll",
         "lib/net472/MassTransit.Abstractions.xml",
         "lib/net8.0/MassTransit.Abstractions.dll",
@@ -1962,21 +1958,19 @@
         "lib/net9.0/MassTransit.Abstractions.xml",
         "lib/netstandard2.0/MassTransit.Abstractions.dll",
         "lib/netstandard2.0/MassTransit.Abstractions.xml",
-        "masstransit.abstractions.9.2.3.nupkg.sha512",
+        "masstransit.abstractions.8.3.6.nupkg.sha512",
         "masstransit.abstractions.nuspec",
         "mt-logo-small.png"
       ]
     },
-    "MassTransit.RabbitMQ/9.2.3": {
-      "sha512": "leInIa/ogii5hzKmqbU8DdlYGDUwODoUcIcx8Vlu4NZjjmGoiCdPybDdgeRpSt/ebmar0MHL9m4sainogXU6jQ==",
+    "MassTransit.RabbitMQ/8.3.6": {
+      "sha512": "gR67/f8reudNVUf0yDdUBuDLBFjDdqCSF8K3XaIlpHSRmmCUTBVPVrt0h65/Zty00okBHzcbUX32bLZeQL51sw==",
       "type": "package",
-      "path": "masstransit.rabbitmq/9.2.3",
+      "path": "masstransit.rabbitmq/8.3.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "NuGet.README.md",
-        "lib/net10.0/MassTransit.RabbitMqTransport.dll",
-        "lib/net10.0/MassTransit.RabbitMqTransport.xml",
         "lib/net472/MassTransit.RabbitMqTransport.dll",
         "lib/net472/MassTransit.RabbitMqTransport.xml",
         "lib/net8.0/MassTransit.RabbitMqTransport.dll",
@@ -1985,7 +1979,7 @@
         "lib/net9.0/MassTransit.RabbitMqTransport.xml",
         "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll",
         "lib/netstandard2.0/MassTransit.RabbitMqTransport.xml",
-        "masstransit.rabbitmq.9.2.3.nupkg.sha512",
+        "masstransit.rabbitmq.8.3.6.nupkg.sha512",
         "masstransit.rabbitmq.nuspec",
         "mt-logo-small.png"
       ]
@@ -3947,10 +3941,10 @@
         "packageIcon.png"
       ]
     },
-    "RabbitMQ.Client/7.2.2": {
-      "sha512": "k4b6RnTXpLbsF96V93ooNYxgPMnoA2tEm24B6AXNJr1mG8wwNYdA1XJtgU66L5xqeGyveS7SJriRzlX3cbqQNA==",
+    "RabbitMQ.Client/7.0.0": {
+      "sha512": "8YJz22mOSMtkbIVuVSz2HbJwbpKwRoXQ1uqbczDUt1w1Ds8dxFs6dkV/oZ8AlTmkErZjtQelHv+oBu52ud00WA==",
       "type": "package",
-      "path": "rabbitmq.client/7.2.2",
+      "path": "rabbitmq.client/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3960,7 +3954,7 @@
         "lib/net8.0/RabbitMQ.Client.xml",
         "lib/netstandard2.0/RabbitMQ.Client.dll",
         "lib/netstandard2.0/RabbitMQ.Client.xml",
-        "rabbitmq.client.7.2.2.nupkg.sha512",
+        "rabbitmq.client.7.0.0.nupkg.sha512",
         "rabbitmq.client.nuspec"
       ]
     },
@@ -4759,6 +4753,8 @@
       "FluentValidation.DependencyInjectionExtensions >= 12.1.1",
       "Hangfire.AspNetCore >= 1.8.25",
       "Hangfire.SqlServer >= 1.8.25",
+      "MassTransit >= 8.3.6",
+      "MassTransit.RabbitMQ >= 8.3.6",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 10.0.11",
       "Microsoft.AspNetCore.OpenApi >= 10.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.10",
@@ -4845,6 +4841,14 @@
           "Hangfire.SqlServer": {
             "target": "Package",
             "version": "[1.8.25, )"
+          },
+          "MassTransit": {
+            "target": "Package",
+            "version": "[8.3.6, )"
+          },
+          "MassTransit.RabbitMQ": {
+            "target": "Package",
+            "version": "[8.3.6, )"
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
@@ -5329,5 +5333,25 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MassTransit.RabbitMQ from 9.2.3 to 8.3.6. Reference the package directly from the project to select a different version. \r\n PharmaPOS.API -> PharmaPOS.Infrastructure -> MassTransit.RabbitMQ (>= 9.2.3) \r\n PharmaPOS.API -> MassTransit.RabbitMQ (>= 8.3.6)",
+      "libraryId": "MassTransit.RabbitMQ",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MassTransit from 9.2.3 to 8.3.6. Reference the package directly from the project to select a different version. \r\n PharmaPOS.API -> PharmaPOS.Infrastructure -> MassTransit (>= 9.2.3) \r\n PharmaPOS.API -> MassTransit (>= 8.3.6)",
+      "libraryId": "MassTransit",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

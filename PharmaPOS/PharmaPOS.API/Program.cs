@@ -50,7 +50,31 @@ builder.Services.AddAuthentication(options =>
     options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
     {
         ValidateAudience = false,
-        RoleClaimType = "realm_access.roles"
+        RoleClaimType = "http://schemas.microsoft.com/ws/2008/06/identity/claims/role"
+    };
+    options.Events = new Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerEvents
+    {
+        OnTokenValidated = context =>
+        {
+            var claimsIdentity = context.Principal?.Identity as System.Security.Claims.ClaimsIdentity;
+            if (claimsIdentity == null) return Task.CompletedTask;
+
+            var realmAccess = context.Principal?.FindFirst("realm_access")?.Value;
+            if (realmAccess != null)
+            {
+                var parsed = System.Text.Json.JsonDocument.Parse(realmAccess);
+                if (parsed.RootElement.TryGetProperty("roles", out var roles))
+                {
+                    foreach (var role in roles.EnumerateArray())
+                    {
+                        claimsIdentity.AddClaim(new System.Security.Claims.Claim(
+                            System.Security.Claims.ClaimTypes.Role,
+                            role.GetString()!));
+                    }
+                }
+            }
+            return Task.CompletedTask;
+        }
     };
 });
 builder.Services.AddStackExchangeRedisCache(options =>

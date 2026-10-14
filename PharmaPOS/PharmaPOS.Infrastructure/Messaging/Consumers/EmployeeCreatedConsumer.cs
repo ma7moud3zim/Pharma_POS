@@ -67,3 +67,32 @@ public class EmployeeDeletedConsumer : IConsumer<EmployeeDeletedEvent>
         _logger.LogInformation("User deactivated in PharmaPOS for employee {Email}", context.Message.Email);
     }
 }
+public class EmployeeUpdatedConsumer : IConsumer<EmployeeUpdatedEvent>
+{
+    private readonly PharmaPOSDbContext _context;
+    private readonly ILogger<EmployeeUpdatedConsumer> _logger;
+
+    public EmployeeUpdatedConsumer(PharmaPOSDbContext context, ILogger<EmployeeUpdatedConsumer> logger)
+    {
+        _context = context;
+        _logger = logger;
+    }
+
+    public async Task Consume(ConsumeContext<EmployeeUpdatedEvent> context)
+    {
+        var msg = context.Message;
+        _logger.LogInformation("Received EmployeeUpdatedEvent for {Email}", msg.Email);
+
+        var user = _context.Users.FirstOrDefault(u => u.Email == msg.Email);
+        if (user is null) return;
+
+        user.FullName = msg.FullName;
+        user.Email = msg.Email;
+        user.PhoneNumber = msg.PhoneNumber;
+        if (Enum.TryParse<UserRole>(msg.Role, true, out var role))
+            user.Role = role;
+
+        await _context.SaveChangesAsync();
+        _logger.LogInformation("User updated in PharmaPOS for {Email}", msg.Email);
+    }
+}

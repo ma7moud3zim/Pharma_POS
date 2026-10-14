@@ -73,6 +73,14 @@
               "target": "Package",
               "version": "[1.8.25, )"
             },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.6, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.6, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[10.0.11, )"

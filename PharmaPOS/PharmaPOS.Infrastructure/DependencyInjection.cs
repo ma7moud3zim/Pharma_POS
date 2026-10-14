@@ -38,6 +38,7 @@ public static class DependencyInjection
         {
             x.AddConsumer<EmployeeCreatedConsumer>();
             x.AddConsumer<EmployeeDeletedConsumer>();
+            x.AddConsumer<EmployeeUpdatedConsumer>();
 
             x.UsingRabbitMq((ctx, cfg) =>
             {
